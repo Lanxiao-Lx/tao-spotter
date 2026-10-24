@@ -12,7 +12,9 @@
 
 | 文件 | 说明 |
 |---|---|
-| [TAO-Spotter-v2.4.apk](TAO-Spotter-v2.4.apk) | 安卓安装包（约 70 KB，支持 Android 5.0+） |
+| **[TAO-Spotter-v2.4.apk](https://github.com/Lanxiao-Lx/tao-spotter/releases/download/v2.4/TAO-Spotter-v2.4.apk)** | 安卓安装包（约 70 KB，支持 Android 5.0+） |
+
+> 也可以到 [Releases](https://github.com/Lanxiao-Lx/tao-spotter/releases) 页面下载。
 
 安装步骤：
 1. 下载 APK 到手机（微信/QQ 传输、数据线均可）

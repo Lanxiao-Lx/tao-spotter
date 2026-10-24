@@ -12,7 +12,7 @@
 
 | 文件 | 说明 |
 |---|---|
-| **[TAO-Spotter-v2.4.apk](https://github.com/Lanxiao-Lx/tao-spotter/releases/download/v2.4/TAO-Spotter-v2.4.apk)** | 安卓安装包（约 70 KB，支持 Android 5.0+） |
+| **[TAO-Spotter-v2.5.apk](https://github.com/Lanxiao-Lx/tao-spotter/releases/download/v2.5/TAO-Spotter-v2.5.apk)** | 安卓安装包（约 73 KB，支持 Android 5.0+） |
 
 > 也可以到 [Releases](https://github.com/Lanxiao-Lx/tao-spotter/releases) 页面下载。
 
@@ -22,6 +22,13 @@
 3. 打开 App → 看到欢迎说明 → 点「开始使用」
 
 > 无需注册、无需任何账号。所有数据只保存在手机本地。
+
+### 🆕 更新日志
+
+- **v2.5**：修复详情页飞机照片（支持注册号或 ICAO 地址查询；加载失败有明确提示与重试；图片加载失败自动走原生桥下载兜底）；天气栏跑道建议新增 **ATIS 提示**（「具体降落方向请用手台收听青岛胶东国际机场情报通波（ATIS）：127.200 MHz」）
+- **v2.4**：每次打开显示大字欢迎说明；设置页公开 AI 复刻提示词；图标像素级居中；全 UI 精修
+- **v2.3**：图标居中、UI 精修、标签栏吸附动态校准
+- **v2.2**：好货/动态栏按「即将 ↔ 已结束」分组排序
 
 ---
 
